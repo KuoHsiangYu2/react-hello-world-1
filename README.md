@@ -1,4 +1,6 @@
-# react-hello-world-1
+# react-hello-world-1  
 
-React
-ç¬¬ä¸€éš»ç·´ç¿’ç”¨å°ç¨‹å¼
+hsiang-yu kuo practice React front-end program  
+
+°õ¦æ«ü¥O¡G  
+  npm run start  

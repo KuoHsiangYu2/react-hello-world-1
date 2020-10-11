@@ -2,5 +2,5 @@
 
 hsiang-yu kuo practice React front-end program  
 
-°õ¦æ«ü¥O¡G  
+åŸ·è¡ŒæŒ‡ä»¤ï¼š  
   npm run start  

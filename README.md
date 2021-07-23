@@ -1,14 +1,6 @@
 # react-hello-world-1  
 
-hsiang-yu kuo practice React front-end program  
-
-執行指令：  
-  npm run start  
-
-安裝指令：  
-  npm install  
-
-<br />
+hsiang-yu kuo practice React  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
